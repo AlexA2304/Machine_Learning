@@ -2,12 +2,12 @@
 Where I'll put all my projects from my ML self-study.
 
 # Table of Contents
-1. [Essential Concepts](https://github.com/AlexA2304/Machine_Learning/edit/main/README.md#essential-concepts)
+1. [Essential Concepts](https://github.com/AlexA2304/Machine_Learning/blob/main/README.md#essential-concepts)
   
-2. [Classification: The Basics](#classification-the-basics)
-3. [NLP: The Basics](#nlp-the-basics)
-4. [Recommendation Systems](#recommendation-systems)
-5. [Recommendation Systems: Collaborative Filtering - The Basics](#recommendation-systems-collaborative-filtering---the-basics)
+2. [Classification: The Basics](https://github.com/AlexA2304/Machine_Learning/blob/main/README.md#nlp-the-basics)
+3. [NLP: The Basics](https://github.com/AlexA2304/Machine_Learning/blob/main/README.md#nlp-the-basics)
+4. [Recommendation Systems](https://github.com/AlexA2304/Machine_Learning/blob/main/README.md#recommendation-systems)
+5. [Recommendation Systems: Collaborative Filtering - The Basics](https://github.com/AlexA2304/Machine_Learning/blob/main/README.md#recommendation-systems-collaborative-filtering---the-basics)
 
 
 # Essential Concepts:
